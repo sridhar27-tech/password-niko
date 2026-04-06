@@ -1,5 +1,7 @@
 # password-niko
 
+[🚀 Live Demo](https://sridhar27-tech.github.io/password-niko/)
+
 A premium Password Generator with a real-time Strength Indicator built using the Web Crypto API.
 
 ## Features
